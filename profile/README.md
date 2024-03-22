@@ -1,6 +1,6 @@
 # Donate to world's most effective charities
 
-![Giv Effektivt logo](https://github.com/giveffektivt/.github/assets/1177900/a247464c-ca95-4aad-b9a9-c4f8e62f0f2a)
+![Giv Effektivt logo](https://github.com/giveffektivt/.github/assets/1177900/64c93073-fdeb-4a5c-9074-4a105d7a169e)
 
 - 💯 times more effective compared to average charities.
 - 🇩🇰 easy to donate in Denmark using popular payment methods.
